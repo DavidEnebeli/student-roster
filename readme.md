@@ -1,7 +1,21 @@
-<strong> **DO NOT DISTRIBUTE OR PUBLICLY POST SOLUTIONS TO THESE LABS. MAKE ALL FORKS OF THIS REPOSITORY WITH SOLUTION CODE PRIVATE. PLEASE REFER TO THE STUDENT CODE OF CONDUCT AND ETHICAL EXPECTATIONS FOR COLLEGE OF INFORMATION TECHNOLOGY STUDENTS FOR SPECIFICS. ** </strong>
+# Student Roster Application (C++)
 
-# WESTERN GOVERNORS UNIVERSITY
+This project is a C++ console application developed as part of WGU's
+Scripting and Programming – Applications course.
 
-## C867 SCRIPTING AND PROGRAMMING - APPLICATIONS
-Welcome to C867 Scripting and Programming - Applications!
-For specific task instructions and requirements for this assessment, please refer to the course page.
+## Features
+- Object-oriented design (Student and Roster classes)
+- Dynamic memory management with pointers
+- CSV-style data parsing
+- Enum-based degree programs
+- Input validation (invalid email detection)
+- Console output formatting
+
+## Technologies
+- C++
+- Standard Library
+- g++
+
+## Notes
+This project demonstrates foundational C++ skills including
+constructors, destructors, encapsulation, and array management.
